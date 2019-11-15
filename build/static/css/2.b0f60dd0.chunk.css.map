@@ -1,0 +1,1 @@
+{"version":3,"sources":["RLDDFloatingItem.css"],"names":[],"mappings":"AAAA,sBACE,mBACF","file":"2.b0f60dd0.chunk.css","sourcesContent":[".dl-item.activity > div {\n  pointer-events: none;\n}\n"]}
